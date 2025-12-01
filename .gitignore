@@ -1,3 +1,5 @@
+.gitignore
+
 # apikey
 .env
 
@@ -9,7 +11,7 @@ __pycache__/
 .pytest_cache/
 
 # venv
-venv/
+.venv/
 
 # vscode
 .vscode/
@@ -17,3 +19,12 @@ venv/
 
 # macOS
 .DS_Store
+
+# notebook
+easyocr_ui_text_extractor.ipynb
+
+# vision files
+vision/find_coord.py
+vision/test.py
+vision/testing.ipynb
+vision/template.py
