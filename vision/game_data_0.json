@@ -1,78 +1,21 @@
 {
     "info": [
         {
-            "round": [
-                "2-1"
-            ],
-            "level": "3",
-            "exp_val": "216",
+            "round": [],
+            "level": ": 2",
+            "exp_val": "0/2",
             "shop_items": [
-                "Kobuko",
-                "Kennen",
-                "Zac",
-                "Sivir",
-                "Rell"
+                "Viego",
+                "Caitlyn",
+                "Viego",
+                "Blitzcrank",
+                "Qiyana"
             ],
-            "gold": 10,
+            "gold": 5,
             "streak": 0,
             "active_traits": [
-                "Executioner",
-                "Prodigy",
-                "Soul Fighter",
-                "Wraith"
-            ]
-        },
-        {
-            "round": [
-                "4-1"
-            ],
-            "level": "6",
-            "exp_val": "6/36",
-            "shop_items": [
-                "Xayah",
-                "Ezreal",
-                "Kai'Sa",
-                "Caitlyn",
-                "Jhin"
-            ],
-            "gold": 25,
-            "streak": 4,
-            "active_traits": [
-                "Doublestrike",
-                "Wind Wall",
-                "Monster Trainer",
-                "Bastion",
-                "Edgelord",
-                "Mentor",
-                "Soul Fighter",
-                "Star Guardian",
-                "The Crew"
-            ]
-        },
-        {
-            "round": [
-                "4-5"
-            ],
-            "level": "6",
-            "exp_val": "16/36",
-            "shop_items": [
-                "Katarina",
-                "Gangplank",
-                "Jayce",
-                "Ryze",
-                "Viego"
-            ],
-            "gold": 21,
-            "streak": 5,
-            "active_traits": [
-                "Wind Wall",
-                "Star Guardian",
-                "Heavyweight",
-                "Mentor",
-                "Bastion ",
-                "Edgelord",
-                "Prodigy",
-                "Protector"
+                "Longshot",
+                "Demacia"
             ]
         },
         {
@@ -80,19 +23,52 @@
             "level": ": 2",
             "exp_val": "0/2",
             "shop_items": [
-                "Kalista",
-                "Aatrox",
-                "Gnar",
-                "Kennen",
-                "Sivir"
+                "Caitlyn",
+                "Blitzcrank",
+                "Qiyana"
             ],
-            "gold": 5,
+            "gold": 93,
             "streak": 0,
             "active_traits": [
-                "Executioner",
-                "Prodigy",
-                "Soul Fighter",
-                "Wraith"
+                "Quickstriker",
+                "Shadow Isles"
+            ]
+        },
+        {
+            "round": [],
+            "level": "3",
+            "exp_val": "0/6",
+            "shop_items": [
+                "Ashe",
+                "Anivia",
+                "Shen",
+                "Teemo"
+            ],
+            "gold": 93,
+            "streak": 0,
+            "active_traits": [
+                "Quickstriker",
+                "Shadow Isles"
+            ]
+        },
+        {
+            "round": [],
+            "level": "3",
+            "exp_val": "0/6",
+            "shop_items": [
+                "Ashe",
+                "Anivia",
+                "Teemo"
+            ],
+            "gold": 2,
+            "streak": 0,
+            "active_traits": [
+                "Slayer",
+                "Quickstriker",
+                "Shadow Isles",
+                "Vanquisher",
+                "Bilgewater",
+                "Ixtal"
             ]
         },
         {
@@ -102,166 +78,343 @@
             "level": "3",
             "exp_val": "216",
             "shop_items": [
-                "Kobuko",
-                "Kennen",
-                "Zac",
-                "Sivir",
-                "Rell"
+                "Rek'Sai",
+                "Illaoi",
+                "'Maw",
+                "Kog'",
+                "Sona",
+                "Vi"
             ],
             "gold": 10,
             "streak": 0,
             "active_traits": [
-                "Executioner",
-                "Prodigy",
-                "Soul Fighter",
-                "Wraith"
+                "Slayer",
+                "Quickstriker",
+                "Shadow Isles",
+                "Vanquisher",
+                "Bilgewater",
+                "Ixtal'"
+            ]
+        },
+        {
+            "round": [
+                "2-1"
+            ],
+            "level": "3",
+            "exp_val": "216",
+            "shop_items": [
+                "Rek'Sai",
+                "'Maw",
+                "Kog'",
+                "Sona"
+            ],
+            "gold": 7,
+            "streak": 0,
+            "active_traits": [
+                "Bruiser",
+                "Quickstriker",
+                "Shadow Isles",
+                "Bilgewater",
+                "Ionia"
+            ]
+        },
+        {
+            "round": [
+                "2-1"
+            ],
+            "level": "3",
+            "exp_val": "216",
+            "shop_items": [
+                "Rek'Sai",
+                "'Maw",
+                "Kog'",
+                "Sona"
+            ],
+            "gold": 16,
+            "streak": 0,
+            "active_traits": [
+                "Bruiser",
+                "Quickstriker",
+                "Shadow Isles",
+                "Bilgewater",
+                "Ionia"
+            ]
+        },
+        {
+            "round": [
+                "2-2"
+            ],
+            "level": "3",
+            "exp_val": "4/6",
+            "shop_items": [
+                "Teemo",
+                "Anivia",
+                "Jarvan IV",
+                "Anivia",
+                "Briar"
+            ],
+            "gold": 21,
+            "streak": 1,
+            "active_traits": [
+                "Bruiser",
+                "Quickstriker",
+                "Shadow Isles",
+                "Bilgewater",
+                "Ionia"
+            ]
+        },
+        {
+            "round": [
+                "2-3"
+            ],
+            "level": "4",
+            "exp_val": "0/10",
+            "shop_items": [
+                "Dr. Mundo",
+                "Aphelios",
+                "Aphelios"
+            ],
+            "gold": 27,
+            "streak": 2,
+            "active_traits": [
+                "Bruiser",
+                "Quickstriker",
+                "Shadow Isles",
+                "Bilgewater",
+                "Ionia"
+            ]
+        },
+        {
+            "round": [
+                "2-3"
+            ],
+            "level": "4",
+            "exp_val": "0/10",
+            "shop_items": [
+                "Aphelios",
+                "Aphelios"
+            ],
+            "gold": 24,
+            "streak": 2,
+            "active_traits": [
+                "Bruiser",
+                "Quickstriker",
+                "Shadow Isles",
+                "Bilgewater",
+                "Ionia",
+                "Zaun"
+            ]
+        },
+        {
+            "round": [
+                "2-5"
+            ],
+            "level": "4",
+            "exp_val": "2/10",
+            "shop_items": [
+                "Jarvan IV",
+                "Shen",
+                "Caitlyn",
+                "Neeko",
+                "Qiyana"
+            ],
+            "gold": 32,
+            "streak": 1,
+            "active_traits": [
+                "Bruiser",
+                "Quickstriker",
+                "Shadow Isles",
+                "Bilgewater",
+                "Ionia",
+                "Zaun"
             ]
         },
         {
             "round": [
                 "2-6"
             ],
-            "level": "6",
-            "exp_val": "2/36",
+            "level": "4",
+            "exp_val": "4/10",
             "shop_items": [
-                "Janna",
-                "Naafiri",
-                "Shen",
-                "Syndra"
+                "Twisted Fate",
+                "Tristana",
+                "Jarvan IV",
+                "Twisted Fate",
+                "Yorick"
             ],
-            "gold": 93,
-            "streak": 4,
+            "gold": 41,
+            "streak": 2,
             "active_traits": [
-                "Bastion",
-                "Heavyweight",
-                "Wraith",
-                "Juggernaut",
-                "Luchador",
-                "Prodigy",
-                "Sniper",
-                "Soul Fighter",
-                "Star Guardian"
+                "Bruiser",
+                "Quickstriker",
+                "Shadow Isles",
+                "Bilgewater",
+                "Ionia",
+                "Zaun"
+            ]
+        },
+        {
+            "round": [
+                "2-6"
+            ],
+            "level": "4",
+            "exp_val": "4/10",
+            "shop_items": [
+                "Twisted Fate",
+                "Tristana",
+                "Jarvan IV",
+                "Twisted Fate"
+            ],
+            "gold": 41,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Bruiser",
+                "Quickstriker",
+                "Warden",
+                "Ionia",
+                "Zaun"
             ]
         },
         {
             "round": [
                 "2-7"
             ],
-            "level": "6",
-            "exp_val": "4/36",
+            "level": "4",
+            "exp_val": "6/10",
             "shop_items": [
-                "Naafiri",
-                "Neeko",
-                "Xayah",
-                "Swain",
-                "Darius"
+                "Yorick",
+                "Twisted Fate",
+                "Draven",
+                "Jhin",
+                "Neeko"
             ],
-            "gold": 10,
-            "streak": 5,
+            "gold": 52,
+            "streak": 3,
             "active_traits": [
-                "Bastion",
-                "Heavyweight",
-                "Wraith",
-                "Juggernaut",
-                "Luchador",
-                "R",
-                "Prodigy",
-                "Sniper",
-                "Soul Fighter",
-                "Star Guardian"
-            ]
-        },
-        {
-            "round": [
-                "3-1"
-            ],
-            "level": "5",
-            "exp_val": "6/20",
-            "shop_items": [
-                "Rakan",
-                "Kobuko",
-                "Lucian"
-            ],
-            "gold": 35,
-            "streak": 5,
-            "active_traits": [
-                "Duelist",
-                "Wraith",
-                "Sniper",
-                "Mentor",
-                "Bastion",
-                "Edgelord",
-                "{uezernauc",
-                "Protector"
+                "Shadow Isles",
+                "Bruiser",
+                "Quickstriker",
+                "Warden",
+                "Ionia",
+                "Zaun"
             ]
         },
         {
             "round": [
                 "2-7"
             ],
-            "level": "5",
-            "exp_val": "4/20",
+            "level": "4",
+            "exp_val": "6/10",
             "shop_items": [
-                "Yasuo",
-                "Kennen",
-                "Vi",
-                "Ezreal"
-            ],
-            "gold": 39,
-            "streak": 4,
-            "active_traits": [
-                "Soul Fighter",
-                "Executioner",
-                "Bastion",
-                "Sniper",
-                "Sorcerer",
-                "Battle Academia"
-            ]
-        },
-        {
-            "round": [
-                "2-7"
-            ],
-            "level": "5",
-            "exp_val": "4/20",
-            "shop_items": [
-                "Yasuo",
-                "Kennen",
-                "Vi",
-                "Ezreal"
-            ],
-            "gold": 42,
-            "streak": 4,
-            "active_traits": [
-                "Soul Fighter",
-                "Executioner",
-                "Bastion",
-                "Sniper",
-                "Sorcerer",
-                "Battle Academia"
-            ]
-        },
-        {
-            "round": [
-                "3-1"
-            ],
-            "level": "5",
-            "exp_val": "6/20",
-            "shop_items": [
-                "Syndra",
-                "Rakan",
-                "Zac",
-                "Xayah"
+                "Twisted Fate",
+                "Draven",
+                "Jhin",
+                "Neeko"
             ],
             "gold": 50,
-            "streak": 4,
+            "streak": 3,
             "active_traits": [
-                "Soul Fighter",
-                "Executioner",
-                "Bastion",
-                "Sniper",
-                "Sorcerer",
-                "Battle Academia"
+                "Shadow Isles",
+                "Bruiser",
+                "Quickstriker",
+                "Warden",
+                "Ionia",
+                "Zaun"
+            ]
+        },
+        {
+            "round": [
+                "2-7"
+            ],
+            "level": "4",
+            "exp_val": "6/10",
+            "shop_items": [
+                "Twisted Fate",
+                "Draven",
+                "Jhin",
+                "Neeko"
+            ],
+            "gold": 56,
+            "streak": 3,
+            "active_traits": [
+                "Shadow Isles",
+                "Bruiser",
+                "Quickstriker",
+                "Warden",
+                "Ionia",
+                "Zaun"
+            ]
+        },
+        {
+            "round": [
+                "2-7"
+            ],
+            "level": "4",
+            "exp_val": "6/10",
+            "shop_items": [
+                "Twisted Fate",
+                "Draven",
+                "Jhin",
+                "Neeko"
+            ],
+            "gold": 56,
+            "streak": 3,
+            "active_traits": [
+                "Shadow Isles",
+                "Bruiser",
+                "Quickstriker",
+                "Warden",
+                "Ionia",
+                "Zaun"
+            ]
+        },
+        {
+            "round": [
+                "3-1"
+            ],
+            "level": "4",
+            "exp_val": "8/10",
+            "shop_items": [
+                "Caitlyn",
+                "Jinx",
+                "Rumble",
+                "Lulu",
+                "Tristana"
+            ],
+            "gold": 67,
+            "streak": 3,
+            "active_traits": [
+                "Shadow Isles",
+                "Bruiser",
+                "Quickstriker",
+                "Warden",
+                "Ionia",
+                "Zaun"
+            ]
+        },
+        {
+            "round": [
+                "3-1"
+            ],
+            "level": "4",
+            "exp_val": "8/10",
+            "shop_items": [
+                "Caitlyn",
+                "Jinx",
+                "Rumble",
+                "Lulu",
+                "Tristana"
+            ],
+            "gold": 67,
+            "streak": 3,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Ionia",
+                "Bruiser",
+                "Quickstriker",
+                "Demacia"
             ]
         },
         {
@@ -269,48 +422,1763 @@
                 "3-1"
             ],
             "level": "5",
-            "exp_val": "6/20",
+            "exp_val": "2/20",
             "shop_items": [
-                "Syndra",
-                "Rakan",
-                "Zac",
-                "Xayah"
+                "Caitlyn",
+                "Jinx",
+                "Rumble",
+                "Lulu",
+                "Tristana"
+            ],
+            "gold": 63,
+            "streak": 3,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Bruiser",
+                "Ionia",
+                "Quickstriker",
+                "Demacia",
+                "Zaun"
+            ]
+        },
+        {
+            "round": [
+                "3-1"
+            ],
+            "level": "5",
+            "exp_val": "2/20",
+            "shop_items": [
+                "Malzahar",
+                "Jarvan IV",
+                "'Maw",
+                "Kog'",
+                "Wukong",
+                "Shen"
+            ],
+            "gold": 61,
+            "streak": 3,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Bruiser",
+                "Ionia",
+                "Quickstriker",
+                "F",
+                "Demacia",
+                "Zaun"
+            ]
+        },
+        {
+            "round": [
+                "3-1"
+            ],
+            "level": "5",
+            "exp_val": "2/20",
+            "shop_items": [
+                "Leona",
+                "Briar",
+                "Rek'Sai",
+                "Draven",
+                "Lulu"
+            ],
+            "gold": 55,
+            "streak": 3,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Bruiser",
+                "Ionia",
+                "Quickstriker",
+                "F",
+                "Demacia",
+                "Zaun"
+            ]
+        },
+        {
+            "round": [
+                "3-1"
+            ],
+            "level": "5",
+            "exp_val": "2/20",
+            "shop_items": [
+                "Nautilus",
+                "Vi",
+                "Blitzcrank",
+                "Jinx",
+                "Ekko"
+            ],
+            "gold": 53,
+            "streak": 3,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Bruiser",
+                "Ionia",
+                "Quickstriker",
+                "F",
+                "Demacia",
+                "Zaun"
+            ]
+        },
+        {
+            "round": [
+                "3-1"
+            ],
+            "level": "5",
+            "exp_val": "2/20",
+            "shop_items": [
+                "Vi",
+                "Blitzcrank",
+                "Jinx",
+                "Ekko"
+            ],
+            "gold": 51,
+            "streak": 4,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Bruiser",
+                "Ionia",
+                "Quickstriker",
+                "F",
+                "Demacia",
+                "Zaun"
+            ]
+        },
+        {
+            "round": [
+                "3-2"
+            ],
+            "level": "5",
+            "exp_val": "4/20",
+            "shop_items": [
+                "Briar",
+                "Nautilus",
+                "Yasuo",
+                "Jarvan IV",
+                "Caitlyn"
+            ],
+            "gold": 70,
+            "streak": 4,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Bruiser",
+                "Ionia",
+                "Quickstriker",
+                "Demacia",
+                "Zaun"
+            ]
+        },
+        {
+            "round": [
+                "3-2"
+            ],
+            "level": "5",
+            "exp_val": "4/20",
+            "shop_items": [
+                "Briar",
+                "Yasuo",
+                "Jarvan IV",
+                "Caitlyn"
+            ],
+            "gold": 70,
+            "streak": 4,
+            "active_traits": [
+                "Warden",
+                "Shadow Isles",
+                "Ionia",
+                "Bruiser",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-2"
+            ],
+            "level": "5",
+            "exp_val": "4/20",
+            "shop_items": [
+                "Briar",
+                "Yasuo",
+                "Jarvan IV",
+                "Caitlyn"
+            ],
+            "gold": 73,
+            "streak": 4,
+            "active_traits": [
+                "Warden",
+                "Shadow Isles",
+                "Ionia",
+                "Bruiser",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-2"
+            ],
+            "level": "5",
+            "exp_val": "4/20",
+            "shop_items": [
+                "Teemo",
+                "Malzahar",
+                "Cho'Gath",
+                "Qiyana"
+            ],
+            "gold": 67,
+            "streak": 4,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Juggernaut",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-2"
+            ],
+            "level": "5",
+            "exp_val": "4/20",
+            "shop_items": [
+                "Teemo",
+                "Malzahar",
+                "Cho'Gath",
+                "Qiyana"
+            ],
+            "gold": 71,
+            "streak": 4,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Juggernaut",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-2"
+            ],
+            "level": "5",
+            "exp_val": "4/20",
+            "shop_items": [
+                "Milio",
+                "Aphelios",
+                "Qiyana",
+                "Rumble",
+                "Sion"
+            ],
+            "gold": 63,
+            "streak": 4,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-2"
+            ],
+            "level": "5",
+            "exp_val": "4/20",
+            "shop_items": [
+                "Viego ",
+                "Ekko",
+                "Jhin",
+                "Blitzcrank",
+                "Tristana"
+            ],
+            "gold": 61,
+            "streak": 4,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-2"
+            ],
+            "level": "5",
+            "exp_val": "4/20",
+            "shop_items": [
+                "Ekko",
+                "Jhin",
+                "Blitzcrank",
+                "Tristana"
+            ],
+            "gold": 60,
+            "streak": 4,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-2"
+            ],
+            "level": "5",
+            "exp_val": "4/20",
+            "shop_items": [
+                "Vi",
+                "Malzahar",
+                "Draven",
+                "Cho'Gath",
+                "Loris"
+            ],
+            "gold": 58,
+            "streak": 4,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Juggernaut",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-2"
+            ],
+            "level": "5",
+            "exp_val": "4/20",
+            "shop_items": [
+                "Vi",
+                "Malzahar",
+                "Draven",
+                "Cho'Gath"
+            ],
+            "gold": 55,
+            "streak": 4,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Juggernaut",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-2"
+            ],
+            "level": "5",
+            "exp_val": "4/20",
+            "shop_items": [
+                "Viego",
+                "Twisted Fate",
+                "Jhin",
+                "Vi",
+                "Xin Zhao"
+            ],
+            "gold": 54,
+            "streak": 5,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Juggernaut",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-2"
+            ],
+            "level": "5",
+            "exp_val": "4/20",
+            "shop_items": [
+                "Twisted Fate",
+                "Jhin",
+                "Vi"
             ],
             "gold": 51,
             "streak": 5,
             "active_traits": [
-                "Soul Fighter",
-                "Executioner",
-                "Bastion",
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
                 "Juggernaut",
-                "Sniper",
-                "Sorcerer",
-                "Battle Academia"
+                "Bilgewater",
+                "Demacia"
             ]
         },
         {
             "round": [
                 "3-3"
             ],
-            "level": "6",
-            "exp_val": "2/36",
+            "level": "5",
+            "exp_val": "6/20",
             "shop_items": [
-                "Garen",
-                "Rell",
-                "Zac",
-                "Malphite"
+                "Anivia",
+                "Sion",
+                "Illaoi",
+                "Teemo",
+                "Lulu"
+            ],
+            "gold": 63,
+            "streak": 5,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-3"
+            ],
+            "level": "5",
+            "exp_val": "6/20",
+            "shop_items": [
+                "Malzahar",
+                "Jhin",
+                "Leona",
+                "Sion",
+                "Qiyana"
+            ],
+            "gold": 61,
+            "streak": 5,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-3"
+            ],
+            "level": "5",
+            "exp_val": "6/20",
+            "shop_items": [
+                "Ahri",
+                "Yasuo",
+                "Zoe",
+                "Nautilus",
+                "Sion"
+            ],
+            "gold": 59,
+            "streak": 5,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-3"
+            ],
+            "level": "5",
+            "exp_val": "6/20",
+            "shop_items": [
+                "Ahri",
+                "Yasuo",
+                "Zoe",
+                "Sion"
+            ],
+            "gold": 56,
+            "streak": 5,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-3"
+            ],
+            "level": "5",
+            "exp_val": "6/20",
+            "shop_items": [
+                "Jarvan IV",
+                "Jhin",
+                "Yorick",
+                "Xin Zhao",
+                "Sion"
+            ],
+            "gold": 54,
+            "streak": 5,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-3"
+            ],
+            "level": "5",
+            "exp_val": "6/20",
+            "shop_items": [
+                "Jarvan IV",
+                "Jhin",
+                "Xin Zhao",
+                "Sion"
+            ],
+            "gold": 52,
+            "streak": 5,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-5"
+            ],
+            "level": "5",
+            "exp_val": "8/20",
+            "shop_items": [
+                "Leona",
+                "Rek'Sai",
+                "Lulu",
+                "Teemo",
+                "'Maw",
+                "Kog\""
+            ],
+            "gold": 66,
+            "streak": 6,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-5"
+            ],
+            "level": "5",
+            "exp_val": "8/20",
+            "shop_items": [
+                "Briar",
+                "Neeko",
+                "Rek'Sai",
+                "Blitzcrank",
+                "Viego"
+            ],
+            "gold": 64,
+            "streak": 6,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-5"
+            ],
+            "level": "5",
+            "exp_val": "8/20",
+            "shop_items": [
+                "Briar",
+                "Neeko",
+                "Rek'Sai",
+                "Blitzcrank"
+            ],
+            "gold": 63,
+            "streak": 6,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-5"
+            ],
+            "level": "5",
+            "exp_val": "8/20",
+            "shop_items": [
+                "Malzahar",
+                "Qiyana",
+                "Shen",
+                "Cho'Gath",
+                "Anivia"
+            ],
+            "gold": 61,
+            "streak": 6,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-5"
+            ],
+            "level": "5",
+            "exp_val": "8/20",
+            "shop_items": [
+                "Caitlyn",
+                "Qiyana",
+                "Yasuo",
+                "Sion",
+                "Rumble"
+            ],
+            "gold": 59,
+            "streak": 6,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-5"
+            ],
+            "level": "5",
+            "exp_val": "8/20",
+            "shop_items": [
+                "Aphelios",
+                "Anivia",
+                "Aphelios",
+                "Sona",
+                "Lulu"
+            ],
+            "gold": 57,
+            "streak": 6,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-5"
+            ],
+            "level": "5",
+            "exp_val": "8/20",
+            "shop_items": [
+                "Lulu",
+                "Milio",
+                "Briar",
+                "Aphelios",
+                "Vayne"
+            ],
+            "gold": 55,
+            "streak": 6,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-5"
+            ],
+            "level": "5",
+            "exp_val": "8/20",
+            "shop_items": [
+                "Ashe",
+                "Gangplank",
+                "Bel'Veth",
+                "Jhin",
+                "Caitlyn"
+            ],
+            "gold": 53,
+            "streak": 6,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-5"
+            ],
+            "level": "5",
+            "exp_val": "8/20",
+            "shop_items": [
+                "Ashe",
+                "Gangplank",
+                "Bel'Veth",
+                "Jhin",
+                "Caitlyn"
+            ],
+            "gold": 57,
+            "streak": 6,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-5"
+            ],
+            "level": "5",
+            "exp_val": "8/20",
+            "shop_items": [
+                "Xin Zhao",
+                "Rumble",
+                "Dr. Mundo",
+                "Ekko",
+                "Milio"
+            ],
+            "gold": 55,
+            "streak": 6,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-5"
+            ],
+            "level": "5",
+            "exp_val": "8/20",
+            "shop_items": [
+                "Briar",
+                "Rek'Sai",
+                "'Maw",
+                "Kog'",
+                "'Maw",
+                "Kog\"",
+                "Rek'Sai"
+            ],
+            "gold": 53,
+            "streak": 6,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-5"
+            ],
+            "level": "5",
+            "exp_val": "8/20",
+            "shop_items": [
+                "Sona",
+                "Malzahar",
+                "Viego",
+                "Blitzcrank",
+                "Caitlyn"
             ],
             "gold": 51,
+            "streak": 6,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-5"
+            ],
+            "level": "5",
+            "exp_val": "8/20",
+            "shop_items": [
+                "Sona",
+                "Malzahar",
+                "Blitzcrank",
+                "Caitlyn"
+            ],
+            "gold": 50,
+            "streak": 6,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-6"
+            ],
+            "level": "5",
+            "exp_val": "10/20",
+            "shop_items": [
+                "Twisted Fate",
+                "Rek'Sai",
+                "Vi",
+                "Loris",
+                "Gwen"
+            ],
+            "gold": 60,
             "streak": 1,
             "active_traits": [
-                "Soul Fighter",
-                "Executioner",
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "R",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-6"
+            ],
+            "level": "5",
+            "exp_val": "10/20",
+            "shop_items": [
+                "Twisted Fate",
+                "Rek'Sai",
+                "Vi",
+                "Loris",
+                "Gwen"
+            ],
+            "gold": 60,
+            "streak": 1,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-6"
+            ],
+            "level": "5",
+            "exp_val": "10/20",
+            "shop_items": [
+                "Twisted Fate",
+                "Rek'Sai",
+                "Vi",
+                "Loris"
+            ],
+            "gold": 57,
+            "streak": 1,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-6"
+            ],
+            "level": "5",
+            "exp_val": "10/20",
+            "shop_items": [
+                "Twisted Fate",
+                "Rek'Sai",
+                "Vi"
+            ],
+            "gold": 54,
+            "streak": 1,
+            "active_traits": [
+                "Warden",
+                "Quickstriker",
+                "Shadow Isles",
+                "Ionia",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "3-6"
+            ],
+            "level": "5",
+            "exp_val": "10/20",
+            "shop_items": [
+                "Twisted Fate",
+                "Rek'Sai",
+                "Vi"
+            ],
+            "gold": 54,
+            "streak": 1,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Disruptor",
                 "Juggernaut",
-                "Mentor",
-                "Bastion",
-                "Duelist",
-                "Sniper",
-                "Sorcerer"
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia",
+                "Ionia"
+            ]
+        },
+        {
+            "round": [
+                "3-6"
+            ],
+            "level": "5",
+            "exp_val": "10/20",
+            "shop_items": [
+                "Lulu",
+                "Draven",
+                "Jarvan IV",
+                "Illaoi",
+                "Vayne"
+            ],
+            "gold": 52,
+            "streak": 1,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Disruptor",
+                "Juggernaut",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia",
+                "Ionia"
+            ]
+        },
+        {
+            "round": [
+                "3-6"
+            ],
+            "level": "5",
+            "exp_val": "10/20",
+            "shop_items": [
+                "Anivia",
+                "Vi",
+                "Illaoi",
+                "Twisted Fate",
+                "Briar"
+            ],
+            "gold": 50,
+            "streak": 1,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Disruptor",
+                "{uezernaut",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia",
+                "Ionia"
+            ]
+        },
+        {
+            "round": [
+                "3-7"
+            ],
+            "level": "5",
+            "exp_val": "12/20",
+            "shop_items": [
+                "Sejuani",
+                "Neeko",
+                "Shen",
+                "Lulu",
+                "Caitlyn"
+            ],
+            "gold": 61,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Disruptor",
+                "Juggernaut",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia",
+                "Ionia"
+            ]
+        },
+        {
+            "round": [
+                "3-7"
+            ],
+            "level": "5",
+            "exp_val": "12/20",
+            "shop_items": [
+                "Jinx",
+                "Jarvan IV",
+                "Qiyana",
+                "Vayne",
+                "Yasuo"
+            ],
+            "gold": 59,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Disruptor",
+                "Juggernaut",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia",
+                "Ionia"
+            ]
+        },
+        {
+            "round": [
+                "3-7"
+            ],
+            "level": "5",
+            "exp_val": "12/20",
+            "shop_items": [
+                "Sona",
+                "Qiyana",
+                "Twisted Fate",
+                "Malzahar",
+                "Blitzcrank"
+            ],
+            "gold": 57,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Disruptor",
+                "Juggernaut",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia",
+                "Ionia"
+            ]
+        },
+        {
+            "round": [
+                "3-7"
+            ],
+            "level": "5",
+            "exp_val": "12/20",
+            "shop_items": [
+                "Tristana",
+                "Xin Zhao",
+                "Gwen",
+                "Rumble",
+                "Yorick"
+            ],
+            "gold": 55,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Disruptor",
+                "Juggernaut",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia",
+                "Ionia"
+            ]
+        },
+        {
+            "round": [
+                "3-7"
+            ],
+            "level": "5",
+            "exp_val": "12/20",
+            "shop_items": [
+                "Tristana",
+                "Xin Zhao",
+                "Rumble"
+            ],
+            "gold": 50,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Disruptor",
+                "Juggernaut",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia",
+                "Ionia"
+            ]
+        },
+        {
+            "round": [
+                "4-1"
+            ],
+            "level": "5",
+            "exp_val": "14/20",
+            "shop_items": [
+                "Sion",
+                "Yasuo",
+                "'Maw",
+                "Kog'",
+                "Xin Zhao",
+                "Draven"
+            ],
+            "gold": 61,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Disruptor",
+                "Juggernaut",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia",
+                "Ionia"
+            ]
+        },
+        {
+            "round": [
+                "4-1"
+            ],
+            "level": "5",
+            "exp_val": "14/20",
+            "shop_items": [
+                "Ekko",
+                "Sona",
+                "Draven",
+                "Cho'Gath",
+                "Milio"
+            ],
+            "gold": 59,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Disruptor",
+                "Juggernaut",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia",
+                "Ionia"
+            ]
+        },
+        {
+            "round": [
+                "4-1"
+            ],
+            "level": "5",
+            "exp_val": "14/20",
+            "shop_items": [
+                "Ekko",
+                "Sona",
+                "Draven",
+                "Cho'Gath",
+                "Milio"
+            ],
+            "gold": 59,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Disruptor",
+                "Juggernaut",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia",
+                "Ionia"
+            ]
+        },
+        {
+            "round": [
+                "4-1"
+            ],
+            "level": "5",
+            "exp_val": "18/20",
+            "shop_items": [
+                "Ekko",
+                "Sona",
+                "Draven",
+                "Cho'Gath",
+                "Milio"
+            ],
+            "gold": 55,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Disruptor",
+                "Juggernaut",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia",
+                "Ionia"
+            ]
+        },
+        {
+            "round": [
+                "4-2"
+            ],
+            "level": "6",
+            "exp_val": "10/36",
+            "shop_items": [
+                "Nautilus",
+                "Qiyana",
+                "Ahri",
+                "Yasuo",
+                "Lux"
+            ],
+            "gold": 66,
+            "streak": 3,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Disruptor",
+                "Juggernaut",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia",
+                "Ionia"
+            ]
+        },
+        {
+            "round": [
+                "4-2"
+            ],
+            "level": "6",
+            "exp_val": "10/36",
+            "shop_items": [
+                "Qiyana",
+                "Ahri",
+                "Yasuo",
+                "Lux"
+            ],
+            "gold": 63,
+            "streak": 3,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Quickstriker",
+                "Ionia",
+                "Disruptor",
+                "Juggernaut",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "4-2"
+            ],
+            "level": ": 7",
+            "exp_val": "2160",
+            "shop_items": [
+                "Qiyana",
+                "Ahri",
+                "Yasuo",
+                "Lux"
+            ],
+            "gold": 35,
+            "streak": 3,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Quickstriker",
+                "Ionia",
+                "Disruptor",
+                "Juggernaut",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "4-3"
+            ],
+            "level": ": 7",
+            "exp_val": "14/60",
+            "shop_items": [
+                "Vi",
+                "Leona",
+                "Tristana",
+                "Leona",
+                "Kalista"
+            ],
+            "gold": 44,
+            "streak": 4,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Quickstriker",
+                "Ionia",
+                "Disruptor",
+                "Juggernaut",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "4-3"
+            ],
+            "level": ": 7",
+            "exp_val": "14/60",
+            "shop_items": [
+                "Vi",
+                "Leona",
+                "Tristana",
+                "Leona"
+            ],
+            "gold": 40,
+            "streak": 4,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Quickstriker",
+                "Ionia",
+                "Disruptor",
+                "Juggernaut",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "4-3"
+            ],
+            "level": ": 7",
+            "exp_val": "14/60",
+            "shop_items": [
+                "Vi",
+                "Leona",
+                "Tristana",
+                "Leona"
+            ],
+            "gold": 44,
+            "streak": 4,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Disruptor",
+                "Juggernaut",
+                "Quickstriker",
+                "Vanquisher",
+                "Bilgewater",
+                "Demacia",
+                "Ionia"
+            ]
+        },
+        {
+            "round": [
+                "4-3"
+            ],
+            "level": ": 7",
+            "exp_val": "14/60",
+            "shop_items": [
+                "Vi",
+                "Leona",
+                "Tristana",
+                "Leona"
+            ],
+            "gold": 44,
+            "streak": 4,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Disruptor",
+                "Juggernaut",
+                "Piltover",
+                "Quickstriker",
+                "Vanquisher",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "4-3"
+            ],
+            "level": ": 7",
+            "exp_val": "14/60",
+            "shop_items": [
+                "Gangplank",
+                "Ahri",
+                "Jarvan IV",
+                "Teemo",
+                "Jhin"
+            ],
+            "gold": 42,
+            "streak": 4,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Disruptor",
+                "Juggernaut",
+                "Piltover",
+                "Quickstriker",
+                "Vanquisher",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "4-3"
+            ],
+            "level": ": 7",
+            "exp_val": "14/60",
+            "shop_items": [
+                "Milio",
+                "Tristana",
+                "Gangplank",
+                "Zoe",
+                "Aphelios"
+            ],
+            "gold": 40,
+            "streak": 4,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Disruptor",
+                "Juggernaut",
+                "Piltover",
+                "Quickstriker",
+                "Vanquisher",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "4-5"
+            ],
+            "level": ": 7",
+            "exp_val": "26/60",
+            "shop_items": [
+                "Ahri",
+                "Ashe",
+                "Qiyana",
+                "Sona",
+                "Gwen"
+            ],
+            "gold": 50,
+            "streak": 1,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Disruptor",
+                "Juggernaut",
+                "Piltover",
+                "Quickstriker",
+                "Vanquisher",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "4-5"
+            ],
+            "level": ": 7",
+            "exp_val": "26/60",
+            "shop_items": [
+                "Ahri",
+                "Ashe",
+                "Qiyana",
+                "Sona"
+            ],
+            "gold": 47,
+            "streak": 1,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Disruptor",
+                "Juggernaut",
+                "Piltover",
+                "Quickstriker",
+                "Vanquisher",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "4-5"
+            ],
+            "level": ": 7",
+            "exp_val": "26/60",
+            "shop_items": [
+                "Ahri",
+                "Ashe",
+                "Qiyana",
+                "Sona"
+            ],
+            "gold": 52,
+            "streak": 1,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Disruptor",
+                "Juggernaut",
+                "Piltover",
+                "Quickstriker",
+                "Vanquisher",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "4-5"
+            ],
+            "level": ": 7",
+            "exp_val": "26/60",
+            "shop_items": [
+                "Ahri",
+                "Ashe",
+                "Qiyana",
+                "Sona"
+            ],
+            "gold": 55,
+            "streak": 1,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Disruptor",
+                "Juggernaut",
+                "Piltover",
+                "Quickstriker",
+                "Vanquisher",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [],
+            "level": ": 7",
+            "exp_val": "38/60",
+            "shop_items": [
+                "Qiyana",
+                "Sejuani",
+                "Draven",
+                "Rek'Sai",
+                "Loris"
+            ],
+            "gold": 65,
+            "streak": 1,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Disruptor",
+                "Piltover",
+                "Ria",
+                "Quickstriker",
+                "Vanquisher",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [],
+            "level": ": 7",
+            "exp_val": "38/60",
+            "shop_items": [
+                "Qiyana",
+                "Sejuani",
+                "Draven",
+                "Loris"
+            ],
+            "gold": 63,
+            "streak": 1,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Disruptor",
+                "Piltover",
+                "Ria",
+                "Quickstriker",
+                "Vanquisher",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [],
+            "level": "8",
+            "exp_val": "2168",
+            "shop_items": [
+                "Qiyana",
+                "Sejuani",
+                "Draven",
+                "Loris"
+            ],
+            "gold": 39,
+            "streak": 1,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Disruptor",
+                "Piltover",
+                "Ria",
+                "Quickstriker",
+                "Vanquisher",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [],
+            "level": "8",
+            "exp_val": "2168",
+            "shop_items": [
+                "Qiyana",
+                "Sejuani",
+                "Draven",
+                "Loris"
+            ],
+            "gold": 39,
+            "streak": 1,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Juggernaut",
+                "Piltover",
+                "Quickstriker",
+                "Void",
+                "Bilgewater"
+            ]
+        },
+        {
+            "round": [
+                "4-7"
+            ],
+            "level": "8",
+            "exp_val": "4/68",
+            "shop_items": [
+                "'Maw",
+                "Kog\"",
+                "Draven",
+                "Vi",
+                "Ambessa",
+                "Dr. Mundo"
+            ],
+            "gold": 48,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Piltover",
+                "Quickstriker",
+                "Void",
+                "Bilgewater"
+            ]
+        },
+        {
+            "round": [
+                "4-7"
+            ],
+            "level": "8",
+            "exp_val": "4/68",
+            "shop_items": [
+                "'Maw",
+                "Kog\"",
+                "Draven",
+                "Vi",
+                "Dr. Mundo"
+            ],
+            "gold": 46,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
             ]
         },
         {
@@ -318,263 +2186,782 @@
                 "5-1"
             ],
             "level": "8",
-            "exp_val": "30/76",
+            "exp_val": "6/68",
             "shop_items": [
-                "Malphite",
-                "Jinx",
-                "Jayce",
-                "Volibear"
-            ],
-            "gold": 52,
-            "streak": 1,
-            "active_traits": [
-                "Pack Tactics",
-                "Soul Fighter",
-                "Juggernaut",
-                "Executioner",
-                "Mentor",
-                "Duelist",
-                "Edgelord",
-                "Luchador"
-            ]
-        },
-        {
-            "round": [
-                "2-7"
-            ],
-            "level": "5",
-            "exp_val": "4/20",
-            "shop_items": [
-                "Shen",
-                "Jayce",
-                "Kalista",
-                "Gnar",
-                "Neeko"
-            ],
-            "gold": 28,
-            "streak": 1,
-            "active_traits": [
-                "Shadow Clone",
-                "@",
-                "Star Guardian",
-                "Mentor",
-                "Bastion",
-                "Edgelord",
-                "Prodigy",
-                "Sorcerer",
-                "Crystal Gambit",
-                "Mighty Mech"
-            ]
-        },
-        {
-            "round": [
-                "3-1"
-            ],
-            "level": "5",
-            "exp_val": "6/20",
-            "shop_items": [
-                "Shen",
-                "Vi",
-                "Gnar",
-                "Gnar",
-                "Sivir"
-            ],
-            "gold": 38,
-            "streak": 1,
-            "active_traits": [
-                "Wind Wall",
-                "Star Guardian",
-                "Mentor",
-                "Bastion",
-                "Edgelord",
-                "Prodigy",
-                "Sorcerer",
-                "Crystal Gambit",
-                "Mighty Mech"
-            ]
-        },
-        {
-            "round": [
-                "3-5"
-            ],
-            "level": "6",
-            "exp_val": "4/36",
-            "shop_items": [
+                "Twisted Fate",
                 "Swain",
-                "Kobuko",
-                "Caitlyn"
+                "Swain",
+                "Yasuo",
+                "Wukong"
             ],
-            "gold": 20,
+            "gold": 61,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "5-1"
+            ],
+            "level": "8",
+            "exp_val": "6/68",
+            "shop_items": [
+                "Twisted Fate",
+                "Swain",
+                "Swain",
+                "Yasuo",
+                "Wukong"
+            ],
+            "gold": 67,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "5-1"
+            ],
+            "level": "8",
+            "exp_val": "6/68",
+            "shop_items": [
+                "Taric",
+                "Ekko",
+                "Braum",
+                "Malzahar",
+                "Xin Zhao"
+            ],
+            "gold": 65,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "5-1"
+            ],
+            "level": "8",
+            "exp_val": "6/68",
+            "shop_items": [
+                "Ekko",
+                "Taric",
+                "Cho'Gath",
+                "Jinx",
+                "Blitzcrank"
+            ],
+            "gold": 63,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "5-1"
+            ],
+            "level": "8",
+            "exp_val": "10/68",
+            "shop_items": [
+                "'Maw",
+                "Kog\"",
+                "Sejuani",
+                "Caitlyn",
+                "Vayne",
+                "Sejuani"
+            ],
+            "gold": 57,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "5-1"
+            ],
+            "level": "8",
+            "exp_val": "10/68",
+            "shop_items": [
+                "Sejuani",
+                "Milio",
+                "Briar",
+                "Xin Zhao",
+                "Milio"
+            ],
+            "gold": 55,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "{yezernaut",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "5-1"
+            ],
+            "level": "8",
+            "exp_val": "10/68",
+            "shop_items": [
+                "Ambessa",
+                "Sejuani",
+                "Sion",
+                "Ekko",
+                "Cho'Gath"
+            ],
+            "gold": 53,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Juggernaut",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "5-1"
+            ],
+            "level": "8",
+            "exp_val": "10/68",
+            "shop_items": [
+                "Sejuani",
+                "Sion",
+                "Ekko",
+                "Cho'Gath"
+            ],
+            "gold": 49,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Juggernaut",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "5-1"
+            ],
+            "level": "8",
+            "exp_val": "10/68",
+            "shop_items": [
+                "Sejuani",
+                "Sion",
+                "Ekko",
+                "Cho'Gath"
+            ],
+            "gold": 51,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Juggernaut",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "5-2"
+            ],
+            "level": "8",
+            "exp_val": "12/68",
+            "shop_items": [
+                "Gangplank",
+                "Lulu",
+                "Gwen",
+                "Ekko",
+                "Leona"
+            ],
+            "gold": 62,
             "streak": 1,
             "active_traits": [
-                "Wind Wall",
-                "uv",
-                "Star Guardian",
-                "Heavyweight",
-                "Mentor",
-                "Bastion",
-                "Edgelord",
-                "Prodigy",
-                "Sorcerer",
-                "Supreme Cells"
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
             ]
         },
         {
             "round": [
-                "4-5"
+                "5-2"
             ],
-            "level": "6",
-            "exp_val": "16/36",
+            "level": "8",
+            "exp_val": "12/68",
             "shop_items": [
-                "Katarina",
                 "Gangplank",
-                "Jayce",
-                "Ryze",
-                "Viego"
+                "Lulu",
+                "Ekko",
+                "Leona"
             ],
-            "gold": 21,
-            "streak": 6,
+            "gold": 59,
+            "streak": 1,
             "active_traits": [
-                "Wind Wall",
-                "Star Guardian",
-                "Heavyweight",
-                "Mentor",
-                "Bastion ",
-                "Edgelord",
-                "Prodigy",
-                "Protector"
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
             ]
         },
         {
             "round": [
-                "4-7"
+                "5-2"
             ],
-            "level": "6",
-            "exp_val": "20/36",
+            "level": "8",
+            "exp_val": "12/68",
             "shop_items": [
-                "Katarina",
-                "Kobuko",
-                "Ahri",
-                "Darius",
-                "Kalista"
+                "'Maw",
+                "Kog\"",
+                "Lux",
+                "Ambessa",
+                "Xin Zhao",
+                "Sion"
             ],
-            "gold": 35,
-            "streak": 7,
+            "gold": 57,
+            "streak": 1,
             "active_traits": [
-                "Change",
-                "Wind Wall",
-                "Star Guardian",
-                "Heavyweight",
-                "Wraith",
-                "Mentor",
-                "Bastion",
-                "Edgelord",
-                "Prodigy"
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "5-2"
+            ],
+            "level": "8",
+            "exp_val": "12/68",
+            "shop_items": [
+                "'Maw",
+                "Kog\"",
+                "Lux",
+                "Xin Zhao",
+                "Sion"
+            ],
+            "gold": 53,
+            "streak": 1,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Juggernaut",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "5-2"
+            ],
+            "level": "8",
+            "exp_val": "12/68",
+            "shop_items": [
+                "Gwen",
+                "Miss Fortune",
+                "Seraphine",
+                "Malzahar",
+                "Jhin"
+            ],
+            "gold": 51,
+            "streak": 1,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "5-2"
+            ],
+            "level": "8",
+            "exp_val": "12/68",
+            "shop_items": [
+                "Miss Fortune",
+                "Seraphine",
+                "Malzahar",
+                "Jhin"
+            ],
+            "gold": 48,
+            "streak": 1,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "lygzernaut",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "5-2"
+            ],
+            "level": "8",
+            "exp_val": "12/68",
+            "shop_items": [
+                "Seraphine",
+                "Draven",
+                "Taric",
+                "Xin Zhao",
+                "Gwen"
+            ],
+            "gold": 46,
+            "streak": 1,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "5-2"
+            ],
+            "level": "8",
+            "exp_val": "12/68",
+            "shop_items": [
+                "Seraphine",
+                "Draven",
+                "Taric",
+                "Xin Zhao"
+            ],
+            "gold": 43,
+            "streak": 1,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "5-2"
+            ],
+            "level": "8",
+            "exp_val": "12/68",
+            "shop_items": [
+                "Yorick",
+                "Ambessa",
+                "Leona",
+                "Anivia",
+                "Sejuani"
+            ],
+            "gold": 41,
+            "streak": 1,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "lygzernaut",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "5-2"
+            ],
+            "level": "8",
+            "exp_val": "12/68",
+            "shop_items": [
+                "Ambessa",
+                "Leona",
+                "Anivia",
+                "Sejuani"
+            ],
+            "gold": 39,
+            "streak": 1,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
+            ]
+        },
+        {
+            "round": [
+                "5-2"
+            ],
+            "level": "8",
+            "exp_val": "12/68",
+            "shop_items": [
+                "Seraphine",
+                "Jinx",
+                "Ahri",
+                "Loris",
+                "Vayne"
+            ],
+            "gold": 37,
+            "streak": 1,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
             ]
         },
         {
             "round": [
                 "5-3"
             ],
-            "level": "6",
-            "exp_val": "26/36",
+            "level": "8",
+            "exp_val": "14/68",
             "shop_items": [
-                "Caitlyn",
-                "Janna",
-                "Garen",
-                "Lux",
-                "Lulu"
+                "'Maw",
+                "Kog\"",
+                "Wukong",
+                "Tristana",
+                "Shyvana",
+                "Thresh"
             ],
-            "gold": 10,
+            "gold": 45,
             "streak": 1,
             "active_traits": [
-                "Noxious",
-                "Trap",
-                "Wind Wall",
-                "Star Guardian",
-                "Heavyweight",
-                "Wraith",
-                "Mentor",
-                "Bastion",
-                "Edgelord",
-                "Prodigy"
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
             ]
         },
         {
             "round": [
-                "3-1"
-            ],
-            "level": "6",
-            "exp_val": "6/36",
-            "shop_items": [
-                "Kalista",
-                "Vi",
-                "Malphite",
-                "Katarina",
-                "Swain"
-            ],
-            "gold": 18,
-            "streak": 5,
-            "active_traits": [
-                "Bastion",
-                "Heavyweight",
-                "Wraith",
-                "Juggernaut",
-                "Luchador",
-                "Prodigy",
-                "Sniper",
-                "Soul Fighter",
-                "Star Guardian"
-            ]
-        },
-        {
-            "round": [
-                "5-6"
+                "5-3"
             ],
             "level": "8",
-            "exp_val": "38/76",
+            "exp_val": "14/68",
             "shop_items": [
-                "Janna",
-                "Dr. Mundo",
-                "Jhin",
-                "Gnar",
-                "K'Sante"
+                "'Maw",
+                "Kog\"",
+                "Wukong",
+                "Tristana",
+                "Shyvana"
             ],
-            "gold": 56,
+            "gold": 40,
             "streak": 1,
             "active_traits": [
-                "Soul Fighter",
-                "Juggernaut",
-                "Executioner",
-                "Sorcerer",
-                "Mentor",
-                "Bastion",
-                "Duelist"
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Demacia"
             ]
         },
         {
             "round": [
-                "3-1"
+                "5-3"
             ],
-            "level": "5",
-            "exp_val": "6/20",
+            "level": "8",
+            "exp_val": "14/68",
             "shop_items": [
-                "Janna",
-                "Neeko",
-                "Vi"
+                "'Maw",
+                "Kog\"",
+                "Wukong",
+                "Tristana",
+                "Shyvana"
             ],
-            "gold": 34,
+            "gold": 45,
+            "streak": 1,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Noxus"
+            ]
+        },
+        {
+            "round": [
+                "5-5"
+            ],
+            "level": "8",
+            "exp_val": "16/68",
+            "shop_items": [
+                "Cho'Gath",
+                "Xin Zhao",
+                "Swain",
+                "Neeko",
+                "Zoe"
+            ],
+            "gold": 55,
             "streak": 2,
             "active_traits": [
-                "Wind Wall",
-                "Star Guardian",
-                "Mentor",
-                "Bastion",
-                "Edgelord",
-                "Heavyweight",
-                "Prodigy",
-                "Sorcerer",
-                "Crystal Gambit"
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Noxus"
+            ]
+        },
+        {
+            "round": [
+                "5-5"
+            ],
+            "level": "8",
+            "exp_val": "16/68",
+            "shop_items": [
+                "Rek'Sai",
+                "Jinx",
+                "Ahri",
+                "Dr. Mundo",
+                "Garen"
+            ],
+            "gold": 53,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Juggernaut",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Noxus"
+            ]
+        },
+        {
+            "round": [
+                "5-5"
+            ],
+            "level": "8",
+            "exp_val": "16/68",
+            "shop_items": [
+                "Braum",
+                "Qiyana",
+                "Jinx",
+                "Vi",
+                "Sion"
+            ],
+            "gold": 51,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Noxus"
+            ]
+        },
+        {
+            "round": [
+                "5-5"
+            ],
+            "level": "8",
+            "exp_val": "16/68",
+            "shop_items": [
+                "Qiyana",
+                "Jinx",
+                "Vi",
+                "Sion"
+            ],
+            "gold": 47,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Noxus"
+            ]
+        },
+        {
+            "round": [
+                "5-5"
+            ],
+            "level": "8",
+            "exp_val": "16/68",
+            "shop_items": [
+                "Swain",
+                "Malzahar",
+                "Shen",
+                "Cho'Gath",
+                "'Maw",
+                "Kog\""
+            ],
+            "gold": 45,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Noxus"
+            ]
+        },
+        {
+            "round": [
+                "5-5"
+            ],
+            "level": "8",
+            "exp_val": "16/68",
+            "shop_items": [
+                "Gwen",
+                "Jinx",
+                "Aphelios",
+                "Garen",
+                "Thresh"
+            ],
+            "gold": 43,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Noxus"
+            ]
+        },
+        {
+            "round": [
+                "5-5"
+            ],
+            "level": "8",
+            "exp_val": "16/68",
+            "shop_items": [
+                "Jinx",
+                "Aphelios",
+                "Garen"
+            ],
+            "gold": 35,
+            "streak": 2,
+            "active_traits": [
+                "Shadow Isles",
+                "Warden",
+                "Vanquisher",
+                "Disruptor",
+                "Piltover",
+                "Quickstriker",
+                "Bilgewater",
+                "Noxus"
             ]
         }
     ]
