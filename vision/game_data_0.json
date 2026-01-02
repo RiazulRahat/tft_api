@@ -1,0 +1,581 @@
+{
+    "info": [
+        {
+            "round": [
+                "2-1"
+            ],
+            "level": "3",
+            "exp_val": "216",
+            "shop_items": [
+                "Kobuko",
+                "Kennen",
+                "Zac",
+                "Sivir",
+                "Rell"
+            ],
+            "gold": 10,
+            "streak": 0,
+            "active_traits": [
+                "Executioner",
+                "Prodigy",
+                "Soul Fighter",
+                "Wraith"
+            ]
+        },
+        {
+            "round": [
+                "4-1"
+            ],
+            "level": "6",
+            "exp_val": "6/36",
+            "shop_items": [
+                "Xayah",
+                "Ezreal",
+                "Kai'Sa",
+                "Caitlyn",
+                "Jhin"
+            ],
+            "gold": 25,
+            "streak": 4,
+            "active_traits": [
+                "Doublestrike",
+                "Wind Wall",
+                "Monster Trainer",
+                "Bastion",
+                "Edgelord",
+                "Mentor",
+                "Soul Fighter",
+                "Star Guardian",
+                "The Crew"
+            ]
+        },
+        {
+            "round": [
+                "4-5"
+            ],
+            "level": "6",
+            "exp_val": "16/36",
+            "shop_items": [
+                "Katarina",
+                "Gangplank",
+                "Jayce",
+                "Ryze",
+                "Viego"
+            ],
+            "gold": 21,
+            "streak": 5,
+            "active_traits": [
+                "Wind Wall",
+                "Star Guardian",
+                "Heavyweight",
+                "Mentor",
+                "Bastion ",
+                "Edgelord",
+                "Prodigy",
+                "Protector"
+            ]
+        },
+        {
+            "round": [],
+            "level": ": 2",
+            "exp_val": "0/2",
+            "shop_items": [
+                "Kalista",
+                "Aatrox",
+                "Gnar",
+                "Kennen",
+                "Sivir"
+            ],
+            "gold": 5,
+            "streak": 0,
+            "active_traits": [
+                "Executioner",
+                "Prodigy",
+                "Soul Fighter",
+                "Wraith"
+            ]
+        },
+        {
+            "round": [
+                "2-1"
+            ],
+            "level": "3",
+            "exp_val": "216",
+            "shop_items": [
+                "Kobuko",
+                "Kennen",
+                "Zac",
+                "Sivir",
+                "Rell"
+            ],
+            "gold": 10,
+            "streak": 0,
+            "active_traits": [
+                "Executioner",
+                "Prodigy",
+                "Soul Fighter",
+                "Wraith"
+            ]
+        },
+        {
+            "round": [
+                "2-6"
+            ],
+            "level": "6",
+            "exp_val": "2/36",
+            "shop_items": [
+                "Janna",
+                "Naafiri",
+                "Shen",
+                "Syndra"
+            ],
+            "gold": 93,
+            "streak": 4,
+            "active_traits": [
+                "Bastion",
+                "Heavyweight",
+                "Wraith",
+                "Juggernaut",
+                "Luchador",
+                "Prodigy",
+                "Sniper",
+                "Soul Fighter",
+                "Star Guardian"
+            ]
+        },
+        {
+            "round": [
+                "2-7"
+            ],
+            "level": "6",
+            "exp_val": "4/36",
+            "shop_items": [
+                "Naafiri",
+                "Neeko",
+                "Xayah",
+                "Swain",
+                "Darius"
+            ],
+            "gold": 10,
+            "streak": 5,
+            "active_traits": [
+                "Bastion",
+                "Heavyweight",
+                "Wraith",
+                "Juggernaut",
+                "Luchador",
+                "R",
+                "Prodigy",
+                "Sniper",
+                "Soul Fighter",
+                "Star Guardian"
+            ]
+        },
+        {
+            "round": [
+                "3-1"
+            ],
+            "level": "5",
+            "exp_val": "6/20",
+            "shop_items": [
+                "Rakan",
+                "Kobuko",
+                "Lucian"
+            ],
+            "gold": 35,
+            "streak": 5,
+            "active_traits": [
+                "Duelist",
+                "Wraith",
+                "Sniper",
+                "Mentor",
+                "Bastion",
+                "Edgelord",
+                "{uezernauc",
+                "Protector"
+            ]
+        },
+        {
+            "round": [
+                "2-7"
+            ],
+            "level": "5",
+            "exp_val": "4/20",
+            "shop_items": [
+                "Yasuo",
+                "Kennen",
+                "Vi",
+                "Ezreal"
+            ],
+            "gold": 39,
+            "streak": 4,
+            "active_traits": [
+                "Soul Fighter",
+                "Executioner",
+                "Bastion",
+                "Sniper",
+                "Sorcerer",
+                "Battle Academia"
+            ]
+        },
+        {
+            "round": [
+                "2-7"
+            ],
+            "level": "5",
+            "exp_val": "4/20",
+            "shop_items": [
+                "Yasuo",
+                "Kennen",
+                "Vi",
+                "Ezreal"
+            ],
+            "gold": 42,
+            "streak": 4,
+            "active_traits": [
+                "Soul Fighter",
+                "Executioner",
+                "Bastion",
+                "Sniper",
+                "Sorcerer",
+                "Battle Academia"
+            ]
+        },
+        {
+            "round": [
+                "3-1"
+            ],
+            "level": "5",
+            "exp_val": "6/20",
+            "shop_items": [
+                "Syndra",
+                "Rakan",
+                "Zac",
+                "Xayah"
+            ],
+            "gold": 50,
+            "streak": 4,
+            "active_traits": [
+                "Soul Fighter",
+                "Executioner",
+                "Bastion",
+                "Sniper",
+                "Sorcerer",
+                "Battle Academia"
+            ]
+        },
+        {
+            "round": [
+                "3-1"
+            ],
+            "level": "5",
+            "exp_val": "6/20",
+            "shop_items": [
+                "Syndra",
+                "Rakan",
+                "Zac",
+                "Xayah"
+            ],
+            "gold": 51,
+            "streak": 5,
+            "active_traits": [
+                "Soul Fighter",
+                "Executioner",
+                "Bastion",
+                "Juggernaut",
+                "Sniper",
+                "Sorcerer",
+                "Battle Academia"
+            ]
+        },
+        {
+            "round": [
+                "3-3"
+            ],
+            "level": "6",
+            "exp_val": "2/36",
+            "shop_items": [
+                "Garen",
+                "Rell",
+                "Zac",
+                "Malphite"
+            ],
+            "gold": 51,
+            "streak": 1,
+            "active_traits": [
+                "Soul Fighter",
+                "Executioner",
+                "Juggernaut",
+                "Mentor",
+                "Bastion",
+                "Duelist",
+                "Sniper",
+                "Sorcerer"
+            ]
+        },
+        {
+            "round": [
+                "5-1"
+            ],
+            "level": "8",
+            "exp_val": "30/76",
+            "shop_items": [
+                "Malphite",
+                "Jinx",
+                "Jayce",
+                "Volibear"
+            ],
+            "gold": 52,
+            "streak": 1,
+            "active_traits": [
+                "Pack Tactics",
+                "Soul Fighter",
+                "Juggernaut",
+                "Executioner",
+                "Mentor",
+                "Duelist",
+                "Edgelord",
+                "Luchador"
+            ]
+        },
+        {
+            "round": [
+                "2-7"
+            ],
+            "level": "5",
+            "exp_val": "4/20",
+            "shop_items": [
+                "Shen",
+                "Jayce",
+                "Kalista",
+                "Gnar",
+                "Neeko"
+            ],
+            "gold": 28,
+            "streak": 1,
+            "active_traits": [
+                "Shadow Clone",
+                "@",
+                "Star Guardian",
+                "Mentor",
+                "Bastion",
+                "Edgelord",
+                "Prodigy",
+                "Sorcerer",
+                "Crystal Gambit",
+                "Mighty Mech"
+            ]
+        },
+        {
+            "round": [
+                "3-1"
+            ],
+            "level": "5",
+            "exp_val": "6/20",
+            "shop_items": [
+                "Shen",
+                "Vi",
+                "Gnar",
+                "Gnar",
+                "Sivir"
+            ],
+            "gold": 38,
+            "streak": 1,
+            "active_traits": [
+                "Wind Wall",
+                "Star Guardian",
+                "Mentor",
+                "Bastion",
+                "Edgelord",
+                "Prodigy",
+                "Sorcerer",
+                "Crystal Gambit",
+                "Mighty Mech"
+            ]
+        },
+        {
+            "round": [
+                "3-5"
+            ],
+            "level": "6",
+            "exp_val": "4/36",
+            "shop_items": [
+                "Swain",
+                "Kobuko",
+                "Caitlyn"
+            ],
+            "gold": 20,
+            "streak": 1,
+            "active_traits": [
+                "Wind Wall",
+                "uv",
+                "Star Guardian",
+                "Heavyweight",
+                "Mentor",
+                "Bastion",
+                "Edgelord",
+                "Prodigy",
+                "Sorcerer",
+                "Supreme Cells"
+            ]
+        },
+        {
+            "round": [
+                "4-5"
+            ],
+            "level": "6",
+            "exp_val": "16/36",
+            "shop_items": [
+                "Katarina",
+                "Gangplank",
+                "Jayce",
+                "Ryze",
+                "Viego"
+            ],
+            "gold": 21,
+            "streak": 6,
+            "active_traits": [
+                "Wind Wall",
+                "Star Guardian",
+                "Heavyweight",
+                "Mentor",
+                "Bastion ",
+                "Edgelord",
+                "Prodigy",
+                "Protector"
+            ]
+        },
+        {
+            "round": [
+                "4-7"
+            ],
+            "level": "6",
+            "exp_val": "20/36",
+            "shop_items": [
+                "Katarina",
+                "Kobuko",
+                "Ahri",
+                "Darius",
+                "Kalista"
+            ],
+            "gold": 35,
+            "streak": 7,
+            "active_traits": [
+                "Change",
+                "Wind Wall",
+                "Star Guardian",
+                "Heavyweight",
+                "Wraith",
+                "Mentor",
+                "Bastion",
+                "Edgelord",
+                "Prodigy"
+            ]
+        },
+        {
+            "round": [
+                "5-3"
+            ],
+            "level": "6",
+            "exp_val": "26/36",
+            "shop_items": [
+                "Caitlyn",
+                "Janna",
+                "Garen",
+                "Lux",
+                "Lulu"
+            ],
+            "gold": 10,
+            "streak": 1,
+            "active_traits": [
+                "Noxious",
+                "Trap",
+                "Wind Wall",
+                "Star Guardian",
+                "Heavyweight",
+                "Wraith",
+                "Mentor",
+                "Bastion",
+                "Edgelord",
+                "Prodigy"
+            ]
+        },
+        {
+            "round": [
+                "3-1"
+            ],
+            "level": "6",
+            "exp_val": "6/36",
+            "shop_items": [
+                "Kalista",
+                "Vi",
+                "Malphite",
+                "Katarina",
+                "Swain"
+            ],
+            "gold": 18,
+            "streak": 5,
+            "active_traits": [
+                "Bastion",
+                "Heavyweight",
+                "Wraith",
+                "Juggernaut",
+                "Luchador",
+                "Prodigy",
+                "Sniper",
+                "Soul Fighter",
+                "Star Guardian"
+            ]
+        },
+        {
+            "round": [
+                "5-6"
+            ],
+            "level": "8",
+            "exp_val": "38/76",
+            "shop_items": [
+                "Janna",
+                "Dr. Mundo",
+                "Jhin",
+                "Gnar",
+                "K'Sante"
+            ],
+            "gold": 56,
+            "streak": 1,
+            "active_traits": [
+                "Soul Fighter",
+                "Juggernaut",
+                "Executioner",
+                "Sorcerer",
+                "Mentor",
+                "Bastion",
+                "Duelist"
+            ]
+        },
+        {
+            "round": [
+                "3-1"
+            ],
+            "level": "5",
+            "exp_val": "6/20",
+            "shop_items": [
+                "Janna",
+                "Neeko",
+                "Vi"
+            ],
+            "gold": 34,
+            "streak": 2,
+            "active_traits": [
+                "Wind Wall",
+                "Star Guardian",
+                "Mentor",
+                "Bastion",
+                "Edgelord",
+                "Heavyweight",
+                "Prodigy",
+                "Sorcerer",
+                "Crystal Gambit"
+            ]
+        }
+    ]
+}
