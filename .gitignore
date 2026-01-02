@@ -27,4 +27,3 @@ easyocr_ui_text_extractor.ipynb
 vision/find_coord.py
 vision/test.py
 vision/testing.ipynb
-vision/template.py

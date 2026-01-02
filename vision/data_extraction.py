@@ -2,7 +2,6 @@ import json
 import cv2, easyocr
 import matplotlib.pyplot as plt
 import pathlib
-import torch
 
 
 PARENT_DIR = pathlib.Path('/users/riazulislamrahat/documents/tft')
@@ -13,7 +12,7 @@ reader = easyocr.Reader(['en'], gpu=True, quantize=False)
 scale = 2.0
 
 class ImageProcessor:
-    
+
     def __init__(self, img):
         # Original image
         self.img = img
@@ -22,19 +21,22 @@ class ImageProcessor:
         # Dictionary to hold extracted texts
         self.text_dict = {}
 
+        # Cleaned data to be stored
+        self.data = {}
+
     # Conversion to sharpen - required methods
     def _upscale_gray(self, img, scale=scale):
         color = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
         if scale != 1.0:
             color = cv2.resize(color, None, fx=scale, fy=scale, interpolation=cv2.INTER_CUBIC)
         return color
-    
+
 
     def _unsharp_mask(self, color, amount=1.0, sigma=1.0):
         blur = cv2.GaussianBlur(color, (0,0), sigma)
         sharp = cv2.addWeighted(color, 1 + amount, blur, -amount, 0)
         return sharp
-    
+
     # OCR methods
     def _ocr_boxes(self, box):
         args = dict(
@@ -47,9 +49,9 @@ class ImageProcessor:
             adjust_contrast = 0.7
         )
         return reader.readtext(box, **args)
-    
+
     def extract_texts(self):
-        # Extract texts from predefined rectangles and store in dictionary
+        # Extract texts from predefined ROI and store in dictionary
         for name, box in RECTANGLES.items():
             x, y, w, h = box
             x2, y2, w2, h2 = int(x*scale), int(y*scale), int(w*scale), int(h*scale)
@@ -57,4 +59,34 @@ class ImageProcessor:
             results = self._ocr_boxes(crop)
             texts = [res[1] for res in results if res[2] > 0.3]
             self.text_dict[name] = texts
-    
+
+    # Cleaning and organizing extracted data
+    def data_clean(self):
+        for key, texts in self.text_dict.items():
+            if key == 'round':
+                self.data[key] = texts
+            elif key == 'exp':
+                self.data['level'] = texts[0].strip('Lvl. ')
+                self.data['exp_val'] = texts[1].strip('/')
+            elif 'shop' in key:
+                for item in texts:
+                    try:
+                        float(item)
+                    except:
+                        self.data.setdefault('shop_items', []).append(item)      
+            elif key == 'gold':
+                self.data[key] = int(texts[0].replace(' ', ''))
+            elif key == 'streak':
+                if texts:
+                    self.data[key] = int(texts[0].replace(' ', ''))
+                else:
+                    self.data[key] = 0
+            elif 'trait' in key:
+                trait_list = [item for item in texts if not any(char.isdigit() for char in item)]
+                self.data.setdefault('active_traits', []).extend(trait_list)
+            else:
+                pass
+
+    def dump_to_json(self, path):
+        with open(path, 'w') as f:
+            json.dump(self.data, f, indent=4)
