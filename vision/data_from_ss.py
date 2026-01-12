@@ -8,7 +8,7 @@ from data_extraction import ImageProcessor
 
 PARENT_DIR = Path(__file__).resolve().parents[1]
 SAVE_PATH = PARENT_DIR / "data" / "game_data.json"
-IMAGE_DIR = PARENT_DIR / "data" / "shadow_0"
+IMAGE_DIR = PARENT_DIR / "data" / "screenshots" / "ionia_0"
 IMAGE_EXTS = {".png"}
 
 # create new json file

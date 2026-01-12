@@ -71,8 +71,10 @@ def main():
             while matchesNum is None or matchesNum < 0 or matchesNum > 100:
                 try:
                     matchesNum = int(input("Enter number of recent matches to save: "))
+                    if matchesNum < 0 or matchesNum > 100:
+                        print("Please enter a number between 1 and 100.")
                 except ValueError:
-                    print("Invalid number. Please enter an integer from 1 to 100.")
+                    print("Please enter a valid integer.")
                     return
                 
             save_matches(riot_id, tag_line, matchesNum)
